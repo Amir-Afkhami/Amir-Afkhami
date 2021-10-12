@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir-Afkhami
 - 👀 I’m interested in creating web and desktop apps.
-- 🌱 I’m currently learning firebase tools.
+- 🌱 I’m currently learning NestJS.
 
 <!---
 Amir-Afkhami/Amir-Afkhami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
